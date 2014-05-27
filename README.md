@@ -15,7 +15,7 @@ If you see any errors please report it to me and I will try to resolve those or 
 
 LICENSE (MIT)
 
-Copyright (c) 2010 Vikrant Ramteke
+Copyright (c) 2014 Vikrant Ramteke
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
